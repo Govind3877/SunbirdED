@@ -1,0 +1,5 @@
+export sb_base_url=https://diksha.gov.in
+export sb_content_read_api=api/content/v1/read
+export sb_org_read_api=api/org/v1/read
+export sb_dialCode_search_api=api/dialcode/v1/search
+export sb_api_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ2TlZDdTl5WVlPZnV6TjdpZEpvM1R6ZHRJMHJlZGtIRCJ9.5R_9R1NGQi-cFrLnZwV4ZfsAzZeSnSaEOHFZm0Hra-U
