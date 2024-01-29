@@ -1,6 +1,6 @@
 #!/bin/sh
 # RV MYSQL Database URL for example "jdbc:mysql://localhost:3306"
-export qr_db_url="jdbc:mysql://localhost:3306/qr_db_schemas"
+export qr_db_url="jdbc:mysql://localhost:3306/qr_db_schema"
 # Database User for example root
 export qr_db_user=root
 #Database Password 

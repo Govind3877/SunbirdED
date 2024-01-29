@@ -1,5 +1,5 @@
 #Maximum number of books which can be reverse verified
-max_books=200
+max_books=1000
 # Thread Pool workers
 pool_workers=4
 
